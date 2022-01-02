@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Madalitso Muva. 
+My name is Madalitso Muva. <br>
 I am an assistant lecturer in Information Systems at Malawi University of Business and Applied Sciences.
 
 ## Courses I teach
