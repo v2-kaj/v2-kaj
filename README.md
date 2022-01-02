@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **v2-kaj/v2-kaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Madalitso Muva. I am an assistant lecturer in Information Systems at Malawi University of Business and Applied Sciences.
+
+## Courses I teach
+1. Computer Programming
+2. Web Technologies
+3. Software Engineering
+
+## Techologies I like to make use of
+1. Django (Python)
+2. React (JavaScript)
+3. Android Studio (Kotlin)
+
+## Contact me
+Email: madalitsomuva@gmail.com
+Cell: +265998757521
