@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Madalitso Muva. <br>
-I am an assistant lecturer in Information Systems at Malawi University of Business and Applied Sciences.
+I am an assistant lecturer in Information Systems at Malawi University of Business and Applied Sciences, Dept of Continuing Education.
 
 ## Courses I teach
 1. Computer Programming
