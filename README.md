@@ -21,7 +21,7 @@ My name is Madalitso Muva. I am an assistant lecturer in Information Systems at 
 2. Web Technologies
 3. Software Engineering
 
-## Techologies I use
+## Technologies I use
 1. Django (Python)
 2. React (JavaScript)
 3. Android Studio (Kotlin)
