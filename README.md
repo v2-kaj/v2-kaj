@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 
 <!--
 **v2-kaj/v2-kaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
