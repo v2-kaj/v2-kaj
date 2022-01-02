@@ -21,11 +21,11 @@ My name is Madalitso Muva. I am an assistant lecturer in Information Systems at 
 2. Web Technologies
 3. Software Engineering
 
-## Techologies I like to make use of
+## Techologies I use
 1. Django (Python)
 2. React (JavaScript)
 3. Android Studio (Kotlin)
 
 ## Contact me
-Email: madalitsomuva@gmail.com
+Email: madalitsomuva@gmail.com <br>
 Cell: +265998757521
