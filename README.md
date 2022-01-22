@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Madalitso Muva. <br>
-I am an assistant lecturer in Information Systems at Malawi University of Business and Applied Sciences, Dept of Continuing Education.
+I am an student-lecturer in Infomation Technology at Malawi University of Business and Applied Sciences, Dept of Continuing Education.
 
 ## Courses I teach
 1. Computer Programming
 2. Web Technologies
 3. Software Engineering
+4. Information Presentation and Analysis
 
 ## Technologies I use
 1. Django (Python)
