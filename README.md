@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Madalitso Muva. <br>
-I am a student/lecturer in Infomation Technology at Malawi University of Business and Applied Sciences, Dept of Continuing Education.
+I am a student/lecturer in Infomation Technology at Malawi University of Business and Applied Sciences.
 
 ## Courses I teach
 1. Computer Programming
