@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Madalitso Muva. <br>
-I am a student/lecturer in Infomation Technology at Malawi University of Business and Applied Sciences.
+I am an IT student and a part-time assistant lecturer in Information Systems at Malawi University of Business and Applied Sciences (MUBAS).
 
 ## Courses I teach
 1. Computer Programming
@@ -29,5 +29,7 @@ I am a student/lecturer in Infomation Technology at Malawi University of Busines
 3. Android Studio (Kotlin)
 
 ## Contact me
-Email: madalitsomuva@gmail.com <br>
+Email 1: madalitsomuva@gmail.com<br>
+Email 2: bit21-mmuva@mubas.ac.mw<br>
+
 Cell: +265 998 757 521
