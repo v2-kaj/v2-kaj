@@ -29,7 +29,6 @@ I am an IT student and a part-time assistant lecturer in Information Systems at 
 3. Android Studio (Kotlin)
 
 ## Contact me
-Email 1: madalitsomuva@gmail.com<br>
-Email 2: bit21-mmuva@mubas.ac.mw<br>
+Email: madalitsomuva@gmail.com<br>
 
 Cell: +265 998 757 521
