@@ -29,7 +29,8 @@ I am an IT student and a part-time assistant lecturer in Information Systems at 
 3. Android Studio (Kotlin)
 
 ## Projects
-1. App for practicing driving tests exams for Malawians https://highwaycode.herokuapp.com/
+1. Highway Code
+App for practicing driving tests exams for Malawians https://highwaycode.herokuapp.com/
 
 ## Contact me
 Email: madalitsomuva@gmail.com<br>
