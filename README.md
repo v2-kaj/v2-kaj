@@ -29,7 +29,7 @@ I am an IT student and a part-time assistant lecturer in Information Systems at 
 3. Android Studio (Kotlin)
 
 ## Projects
-1. Highway Code
+1. Highway Code <br>
 App for practicing driving tests exams for Malawians https://highwaycode.herokuapp.com/
 
 ## Contact me
