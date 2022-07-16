@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Madalitso Muva, an undergrad IT student and a part-time assistant lecturer in Information Systems at Malawi University of Business and Applied Sciences (MUBAS).
+I'm Madalitso Muva, an undergrad IT student at Malawi University of Business and Applied Sciences (MUBAS) where I also work as a part-time assistant lecturer in Information Systems under the Dept of Continuing Education.
 
 ## Courses I teach
 - Computer Programming
@@ -25,7 +25,6 @@ I'm Madalitso Muva, an undergrad IT student and a part-time assistant lecturer i
 ## Technologies I use
 - Django (Python)
 - React (JavaScript)
-- Android Studio (Kotlin)
 
 ## Projects
 - [Studious](https://studious-io.herokuapp.com/) <br>
