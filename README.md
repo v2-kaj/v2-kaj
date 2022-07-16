@@ -28,9 +28,9 @@ I'm Madalitso Muva, an undergrad IT student and a part-time assistant lecturer i
 3. Android Studio (Kotlin)
 
 ## Projects
-. [Studious](https://studious-io.herokuapp.com/) <br>
+- [Studious](https://studious-io.herokuapp.com/) <br>
 An app for college students to help them manage their study time.
-. [Highway Code](https://highwaycode.herokuapp.com/) <br>
+- [Highway Code](https://highwaycode.herokuapp.com/) <br>
 An app for practicing driving tests exams for Malawians.
 
 
