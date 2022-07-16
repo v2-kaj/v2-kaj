@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Madalitso Muva. <br>
-I am an IT student and a part-time assistant lecturer in Information Systems at Malawi University of Business and Applied Sciences (MUBAS).
+I'm Madalitso Muva, an undergrad IT student and a part-time assistant lecturer in Information Systems at Malawi University of Business and Applied Sciences (MUBAS).
 
 ## Courses I teach
 1. Computer Programming
@@ -29,9 +28,9 @@ I am an IT student and a part-time assistant lecturer in Information Systems at 
 3. Android Studio (Kotlin)
 
 ## Projects
-1. [Studious](https://studious-io.herokuapp.com/) <br>
+. [Studious](https://studious-io.herokuapp.com/) <br>
 An app for college students to help them manage their study time.
-2. [Highway Code](https://highwaycode.herokuapp.com/) <br>
+. [Highway Code](https://highwaycode.herokuapp.com/) <br>
 An app for practicing driving tests exams for Malawians.
 
 
