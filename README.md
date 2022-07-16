@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 I'm Madalitso Muva, an undergrad IT student and a part-time assistant lecturer in Information Systems at Malawi University of Business and Applied Sciences (MUBAS).
 
 ## Courses I teach
-1. Computer Programming
-2. Web Technologies
-3. Software Engineering
-4. Information Presentation and Analysis
+- Computer Programming
+- Web Technologies
+- Software Engineering
+- Information Presentation and Analysis
 
 ## Technologies I use
-1. Django (Python)
-2. React (JavaScript)
-3. Android Studio (Kotlin)
+- Django (Python)
+- React (JavaScript)
+- Android Studio (Kotlin)
 
 ## Projects
 - [Studious](https://studious-io.herokuapp.com/) <br>
