@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Madalitso Muva, an undergrad IT student at Malawi University of Business and Applied Sciences (MUBAS) where I also work as a part-time assistant lecturer in Information Systems under the Dept of Continuing Education.
+I'm Madalitso Muva, an undergrad IT student at Malawi University of Business and Applied Sciences (MUBAS) where I also work as a part-time assistant lecturer in Information Systems under the Dept of Continuing Education. I am also a visiting assistant lecturer at the National College of Information Technology (NACIT) Blantyre campus.
 
 ## Courses I teach
 - Computer Programming
 - Web Technologies
 - Software Engineering
 - Information Presentation and Analysis
-- Dynamic Web
+- Dynamic Web with PHP, JavaScript & SQL
 
 ## Technologies I use
 - Django (Python)
