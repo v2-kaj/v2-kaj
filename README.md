@@ -27,7 +27,7 @@ I'm Madalitso Muva, an undergrad IT student at Malawi University of Business and
 - Django (Python)
 - React (JavaScript)
 
-## Projects
+## Projects [Unavailable on heroku right now]
 - [Studious](https://studious-io.herokuapp.com/) <br>
 An app for college students to help them manage their study time.
 - [Highway Code](https://highwaycode.herokuapp.com/) <br>
