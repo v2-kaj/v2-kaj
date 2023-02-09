@@ -22,6 +22,7 @@ I'm Madalitso Muva, an undergrad IT student at Malawi University of Business and
 - Software Engineering
 - Information Presentation and Analysis
 - Dynamic Web with PHP, JavaScript & SQL
+- Scalable Web
 
 ## Technologies I use
 - Django (Python)
