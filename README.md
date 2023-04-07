@@ -21,6 +21,7 @@ I'm Madalitso Muva, an undergrad IT student at Malawi University of Business and
 - Web Technologies
 - Software Engineering
 - Information Presentation and Analysis
+- Algorithm Design and Analysis
 - Dynamic Web with PHP, JavaScript & SQL
 - Scalable Web
 
