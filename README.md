@@ -32,7 +32,7 @@ I'm Madalitso Muva, an undergrad IT student at Malawi University of Business and
 ## Projects
 - [Studious](https://studious-io-on-docker.herokuapp.com/) <br>
 An app for college students to help them manage their study time.<br>
-- [LPRS-ML](http://localhost)<br>
+- [LPRS-ML]([http://localhost](http://localhost/app/html/)<br>
 Licence Plate Recognition System (LPRS) deployed using Raspberrypi that uses Machine Learning (ML) model to identify a licence plate on an image of a vehicle and extracts the plate using OCR.This was my final Project in Hardware II Class. Some specific technologies I used included: TensorFlowJs, Google Vision and NGINX. <br> 
 - [Highway Code](https://highwaycode.herokuapp.com/) [Unavailable on heroku right now] <br>
 An app for practicing driving tests exams for Malawians.
