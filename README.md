@@ -28,7 +28,7 @@ I'm Madalitso Muva, an undergrad IT student at Malawi University of Business and
 ## Technologies I use
 - Django (Python)
 - React (JavaScript)
-- Node.js and Express
+- Node.js and Express (JavaScript)
 
 ## Projects
 - [Studious](https://studious-io-on-docker.herokuapp.com/) <br>
