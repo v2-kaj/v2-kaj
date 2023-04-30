@@ -31,13 +31,13 @@ I'm Madalitso Muva, an undergrad IT student at Malawi University of Business and
 
 ## Projects
 - [Studious](https://studious-io-on-docker.herokuapp.com/) <br>
-An app for college students to help them manage their study time.<br>
-- [LPRS-ML](http://localhost/app/html/)<br>
-Licence Plate Recognition System (LPRS) deployed using Raspberrypi that runs a Machine Learning (ML) model to recognize a licence plate on an image of a vehicle and extracts it into text using OCR.This was my final project in a Hardware II class. Specific technologies I used included: TensorFlowJs, Google Vision, Google AutoML, NGINX and Raspberrypi. <br> 
+An app for college students to help them manage their study time.  <br>
+- [ALPRS-ML](http://localhost/app/html/)<br>
+Auto Licence Plate Recognition System (ALPRS) deployed on Raspberrypi that runs a Machine Learning (ML) model to recognize a licence plate on an image of a vehicle and extracts it into text using OCR.This was my final project in a Hardware II class. Specific technologies I used included: TensorFlowJs, Google Vision, Google AutoML, Nodejs and Express. <br> 
 - [Highway Code](https://highwaycode.herokuapp.com/) [Unavailable on heroku right now] <br>
-An app for practicing driving tests exams for Malawians.
+An app for practicing driving tests exams for Malawians. In this project I used, ReactJs and MaterialUI for the frontend and DjangoRestFramework for the backend.
 - [iBet](https://localhost) <br>
-A web application simulating football betting. This was my Harvard Capstone Project in which I leveraged ReactJs and DjangoRestFramework for frontend and backend respectively. 
+A web application simulating virtual betting on the major betting sites like Bet365. This was my Harvard Capstone Project in which I leveraged ReactJs and DjangoRestFramework for frontend and backend respectively. 
 
 
 ## Contact me
