@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm Madalitso Muva, an undergrad IT student at Malawi University of Business and Applied Sciences (MUBAS) where I also work as a part-time assistant lecturer in Information Systems under the Dept of Continuing Education. I am also a visiting assistant lecturer at the National College of Information Technology (NACIT), Blantyre campus.
 
 ## Desired Field of Specialisation
-AI (implementation) using Machine and Deep learning models server applications for solving E-Business problems.  
+AI (implementation) using Machine and Deep learning models.
 
 ## Courses I teach
 - Computer Programming
@@ -41,7 +41,7 @@ Auto Licence Plate Recognition System (ALPRS) deployed on Raspberrypi that runs 
 - [Highway Code](https://highwaycode.herokuapp.com/) [Unavailable on heroku right now] <br>
 An app for practicing driving tests exams for Malawians. In this project I used, ReactJs and MaterialUI for the frontend and DjangoRestFramework for the backend.
 - [iBet](https://localhost) <br>
-A web application simulating virtual betting on the major betting sites like Bet365. This was my Harvard Capstone Project in which I leveraged ReactJs and DjangoRestFramework for frontend and backend respectively. 
+A Single Page Application (SPA) simulating virtual betting on the major betting sites like Bet365. This was my Harvard Capstone Project in which I leveraged ReactJs and DjangoRestFramework for frontend and backend respectively. 
 
 
 ## Contact me
