@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Madalitso Muva, an undergrad IT student at Malawi University of Business and Applied Sciences (MUBAS) where I also work as a part-time assistant lecturer in Information Systems under the Dept of Continuing Education. I am also a visiting assistant lecturer at the National College of Information Technology (NACIT), Blantyre campus.
+Madalitso Muva, an undergraduate Information Technology student at Malawi University of Business and Applied Sciences (MUBAS), also has a part-time assistant lecturer position in information systems for the Department of Continuing Education. Additionally, I serve as a guest assistant lecturer on the Blantyre campus of the National College of Information Technology (NACIT).
 
 ## Desired Field of Specialisation
 AI (implementation) using Machine and Deep learning models.
