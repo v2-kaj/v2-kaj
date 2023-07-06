@@ -29,13 +29,14 @@ Artificial Intelligence through the implementation of advanced Machine and Deep 
 - Scalable Web
 
 ## Technologies I use
-- Django (Python)
+- Django and Flask (Python)
 - React (JavaScript)
 - Node.js and Express (JavaScript)
+- Android Studio (Kotlin)
 
 ## Projects
 - [Studious](https://studious-io-on-docker.herokuapp.com/) <br>
-An app for college students to help them manage their study time. This is a Django application that includes social login<br>
+A study-time management app for college students. Technologies used include: Django for backend, vanilla JavaScript for UI, DjangoAllauth for Social Login and Docker for containerisation <br>
 - [ALPRS-ML](http://localhost/app/html/)<br>
 Auto Licence Plate Recognition System (ALPRS) deployed on Raspberrypi that runs a Machine Learning (ML) model to recognize a licence plate on an image of a vehicle and extracts it into text using OCR.This was my final project in a Hardware II class. Specific technologies I used included: TensorFlowJs, Google Vision, Google AutoML, Node.js and Express. <br> 
 - [Highway Code](https://highwaycode.herokuapp.com/) [Unavailable on heroku right now] <br>
