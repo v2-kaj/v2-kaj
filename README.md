@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 My name is Madalitso Muva, an information technology undergraduate at Malawi University of Business and Applied Sciences (MUBAS), where I also work as a part-time assistant lecturer in information systems for the Department of Continuing Education. Additionally, I am a guest assistant lecturer at the Blantyre campus of the National College of Information Technology (NACIT).
 
-## Desired Field of Specialisation
+## Specialisation Aspiration
 Artificial Intelligence through the implementation of Machine and Deep Learning models.
 
 ## Courses I teach
