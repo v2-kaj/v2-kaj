@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 My name is Madalitso Kaj Muva, an information technology undergraduate at Malawi University of Business and Applied Sciences (MUBAS), where I also work as a part-time assistant lecturer in information systems for the Department of Continuing Education. Additionally, I am a guest assistant lecturer at the Blantyre campus of the National College of Information Technology (NACIT).
 
 ## Specialisation Aspiration
-Artificial Intelligence through the implementation of Machine and Deep Learning models.
+Development of systems that make use of Artificial Intelligence (AI) specifically machine and deep learning models. 
 
 ## Courses I teach
 - Computer Programming
