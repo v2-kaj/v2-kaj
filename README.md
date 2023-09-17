@@ -46,7 +46,7 @@ A SPA for simulating virtual betting on the major betting sites like Bet365. Thi
 - [Kajani Car Hire Website](https://v2kaj.pythonanywhere.com/) <br>
 Website Project for Kajani Car Hire in which I used Python, JavaScript and Bootstrap5.
 - [Kubernetes Cluster]() <br>
-Setup a kubernetes cluster with three nodes (Ubuntu 20.04 Servers) on VMWare VSphere: a master node and two worker nodes, deployed a simple dockerized FastAPI app pm the cluster for learning purposes. This was my final project in Operating Systems II. 
+Setup a kubernetes cluster, for learning purposes, with three nodes (Ubuntu 20.04 Servers) on VMWare VSphere: a master node, two worker nodes, and deployed a simple dockerized FastAPI app on the cluster. This was my final project in Operating Systems II. 
 
 ## Contact me
 Email: madalitsomuva@gmail.com<br>
