@@ -44,8 +44,9 @@ A Single Page Application (SPA) for practicing driving tests exams for Malawians
 - [vBet](https://youtu.be/LQJeUnLR6Hc) <br>
 A SPA for simulating virtual betting on the major betting sites like Bet365. This was my Harvard Capstone Project in which I leveraged ReactJs including React Router and DjangoRestFramework for frontend and backend respectively.
 - [Kajani Car Hire Website](https://v2kaj.pythonanywhere.com/) <br>
-Website Project for Kajani Car Hire in which I used Python, JavaScript and Bootstrap5. 
-
+Website Project for Kajani Car Hire in which I used Python, JavaScript and Bootstrap5.
+- Kubernetes Cluster
+Setup a kubernetes cluster with three nodes (Ubuntu 20.04 Servers) on VMWare Workstation: a master node and two worker nodes and deployed a simple dockerized fastapi app for learning purpose. This was my capstone in Operating Systems II. 
 
 ## Contact me
 Email: madalitsomuva@gmail.com<br>
