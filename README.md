@@ -36,7 +36,7 @@ Artificial Intelligence (AI) - machine and deep learning.
 
 ## Projects
 - [Studious](https://studious-io-on-docker.herokuapp.com/) <br>
-A study-time management app for college students. Technologies used include: Django for backend, vanilla JavaScript for UI, DjangoAllauth for Social Login and Docker for containerisation <br>
+A study-time management SSR app for college students. Technologies used include: Django for backend, vanilla JavaScript for UI, DjangoAllauth for Social Login and Docker for containerisation <br>
 - [ALPRS-ML](http://localhost/app/html/)<br>
 Auto Licence Plate Recognition System (ALPRS) deployed on Raspberrypi that runs a Machine Learning (ML) model to recognize a licence plate on an image of a vehicle and extracts it into text using OCR. This was my final project in a Hardware II class. Specific technologies I used included: TensorFlowJs, Google Vision, Google AutoML, Node.js and Express. <br> 
 - [Highway Code](https://highwaycode.herokuapp.com/) [Unavailable on heroku right now] <br>
