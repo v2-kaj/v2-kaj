@@ -40,7 +40,7 @@ A study-time management app for college students. Technologies used include: Dja
 - [ALPRS-ML](http://localhost/app/html/)<br>
 Auto Licence Plate Recognition System (ALPRS) deployed on Raspberrypi that runs a Machine Learning (ML) model to recognize a licence plate on an image of a vehicle and extracts it into text using OCR. This was my final project in a Hardware II class. Specific technologies I used included: TensorFlowJs, Google Vision, Google AutoML, Node.js and Express. <br> 
 - [Highway Code](https://highwaycode-fbd3e.web.app/) [Now available on firebase instead of Heroku] <br>
-A Single Page Application (SPA) for practicing driving tests exams for Malawians. In this project I used, ReactJs and MaterialUI for the frontend and DjangoRestFramework for the backend.
+A Single Page Application (SPA) for practicing driving test exams for Malawi and SADC countries. In this project I used, ReactJs, ReactRouter and MaterialUI for the frontend and ExpressJs for the backend.
 - [vBet](https://youtu.be/LQJeUnLR6Hc) <br>
 A SPA for simulating virtual betting on the major betting sites like Bet365. This was my Harvard Capstone Project in which I leveraged ReactJs including React Router and DjangoRestFramework for frontend and backend respectively.
 - [Kajani Car Hire Website](https://v2kaj.pythonanywhere.com/) <br>
