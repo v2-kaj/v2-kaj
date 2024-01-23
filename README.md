@@ -27,6 +27,7 @@ Artificial Intelligence (AI) - machine and deep learning.
 - Algorithm Design and Analysis
 - Dynamic Web with PHP, JavaScript & SQL
 - Scalable Web
+- Database Design and Development
 
 ## Technologies I use
 - Django and Flask (Python)
