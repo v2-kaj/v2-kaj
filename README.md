@@ -44,8 +44,6 @@ Auto Licence Plate Recognition System (ALPRS) deployed on Raspberrypi that runs 
 A Single Page Application (SPA) for practicing driving test exams for Malawi and SADC countries. In this project I used, ReactJs, ReactRouter and MaterialUI for the frontend and Flask for the backend.
 - [vBet](https://youtu.be/LQJeUnLR6Hc) <br>
 A SPA for simulating virtual betting on the major betting sites like Bet365. This was my Harvard Capstone Project in which I leveraged ReactJs including React Router and DjangoRestFramework for frontend and backend respectively.
-- [Kajani Car Hire Website](https://v2kaj.pythonanywhere.com/) <br>
-Website Project for Kajani Car Hire in which I used Python, JavaScript and Bootstrap5.
 - [Kubernetes Cluster]() <br>
 Setup a kubernetes cluster, for learning purposes, with three nodes (Ubuntu 20.04 LTS servers) on VMWare VSphere: a master node, two worker nodes, and deployed a simple dockerized FastAPI app on the cluster. This was my final project in Operating Systems II. 
 
