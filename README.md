@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 My name is Madalitso Kaj Muva, an information technology undergraduate at Malawi University of Business and Applied Sciences (MUBAS), where I also work as a part-time assistant lecturer in information systems for the Institute of Continuing Education (ICE). Additionally, I am a guest assistant lecturer at the Blantyre campus of the National College of Information Technology (NACIT).
 
+## Education
+- Bachelor of Science in Information Technology -MUBAS (pending 2024)
+- Professional Diploma in Computing and Information Systems - ABMA- Distinction (2020)
+- [Certificate in CS50's Web Programming with Python and JavaScript  - Harvard University (2020)](https://courses.edx.org/certificates/2a15f5bba65c42e9b6ca202dc19aac07)
+
 ## Specialisation Aspiration
 Artificial Intelligence (AI) - machine and deep learning. 
 
