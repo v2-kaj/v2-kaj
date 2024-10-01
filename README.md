@@ -43,7 +43,7 @@ Artificial Intelligence (AI) - machine and deep learning.
 
 ## Projects
 - [KaQuiz](#) <br>
-KaQuiz is an interactive, real-time quiz platform designed for use in classroom or lecture environments. It allows lecturers to control the flow of questions while participants answer via their devices. Results can be viewed live, and top scorers are displayed at the end of the quiz. This was my final project in a Java class in which I leveraged Hibernet ORM, Servlets and JSP for backend, Google Login for authentication, Mockito and JUnit for testing, Websockets for realtime communication and HTML,CSS and vanilla JavaScript for the frontend.
+KaQuiz is an interactive, real-time quiz platform designed for use in classroom or lecture environments. It allows lecturers to manage and host the quizes while participants answer via their mobile devices. The faster you provide an answer the more points you score. Results are viewed live, and top 3 scorers are displayed at the end of the quiz. This was my final project in a Java class in which I leveraged Hibernet ORM, Servlets and JSP for backend, Google Login for authentication, Mockito and JUnit for testing, Websockets for realtime communication and HTML,CSS and vanilla JavaScript for the frontend.
 
 - [Studious](https://studious.pythonanywhere.com/) <br>
 A study-time management web application for college students. Technologies used include: Django for backend SSR, vanilla JavaScript for UI, DjangoAllauth for Social Login and Docker for containerisation. <br>
