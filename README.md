@@ -42,7 +42,7 @@ Artificial Intelligence (AI) - machine and deep learning.
 - Android Studio (Kotlin)
 
 ## Projects
--[KaQuiz](#) <br>
+- [KaQuiz](#) <br>
 KaQuiz is an interactive, real-time quiz platform designed for use in classroom or lecture environments. It allows lecturers to control the flow of questions while participants answer via their devices. Results can be viewed live, and top scorers are displayed at the end of the quiz. This was my final project in a Java class in which I leveraged Hibernet ORM, Servlets and JSP for backend, Google Login for authentication, Mockito and JUnit for testing, Websockets for realtime communication and HTML,CSS and vanilla JavaScript for the frontend.
 
 - [Studious](https://studious.pythonanywhere.com/) <br>
