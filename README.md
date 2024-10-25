@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Madalitso Kaj Muva, an information technology undergraduate at Malawi University of Business and Applied Sciences (MUBAS), where I also work as a part-time assistant lecturer in information systems for the Institute of Continuing Education (ICE). Additionally, I am a guest assistant lecturer at the Blantyre campus of the National College of Information Technology (NACIT).
+My name is Madalitso Kaj Muva, a part-time assistant lecturer in information systems for the Institute of Continuing Education (ICE) under Malawi University of Business and Applied Sciences (MUBAS). I am also a guest lecturer at the Blantyre campus of the National College of Information Technology (NACIT).
 
 ## Education
 - Bachelor of Science in Information Technology -MUBAS (pending 2024)
