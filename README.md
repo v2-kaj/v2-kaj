@@ -19,7 +19,7 @@ My name is Madalitso Kaj Muva, a part-time assistant lecturer in information sys
 ## Education
 - Bachelor of Science in Information Technology -MUBAS (pending 2024)
 - [Certificate in CS50's Web Programming with Python and JavaScript](https://courses.edx.org/certificates/2a15f5bba65c42e9b6ca202dc19aac07) - Harvard University USA (2021)
-- Professional Diploma in Computing and Information Systems - ABMA - Distinction (2020)
+- ABMA Professional Diploma in Computing and Information Systems (Distinction) 2020
 
 
 ## Specialisation Aspiration
