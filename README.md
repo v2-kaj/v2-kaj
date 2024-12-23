@@ -35,7 +35,8 @@ Artificial Intelligence (AI) - machine and deep learning.
 - Database Design and Development
 
 ## Technologies I use
-- Django and Flask (Python)
+- SpringBoot(Java)
+- Django/Flask (Python)
 - React (JavaScript)
 - Node.js and Express (JavaScript)
 - Android Studio (Kotlin)
