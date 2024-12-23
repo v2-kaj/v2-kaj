@@ -1,4 +1,4 @@
-## Hello 👋
+## Madalitso Kaj Muva | Software Developer & Educator
 
 <!--
 **v2-kaj/v2-kaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Madalitso Kaj Muva, a part-time assistant lecturer in information systems for the Institute of Continuing Education (ICE) under Malawi University of Business and Applied Sciences (MUBAS). I am also a guest lecturer at the Blantyre campus of the National College of Information Technology (NACIT).
+I am a software developer with expertise in designing and implementing innovative solutions to address complex business challenges. I am also a passionate educator in computer science at the Malawi University of Business and Applied Sciences (MUBAS) and the National College of Information Technology (NACIT).
 
-## Education
-- Bachelor of Science in Information Technology -MUBAS (pending 2024)
+## 🎓 Education
+- Bachelor of Science in Information Technology -MUBAS (Distinction) 2024
 - [Certificate in CS50's Web Programming with Python and JavaScript](https://courses.edx.org/certificates/2a15f5bba65c42e9b6ca202dc19aac07) - Harvard University USA (2021)
 - ABMA Professional Diploma in Computing and Information Systems (Distinction) 2020
-
 
 ## Specialisation Aspiration
 Artificial Intelligence (AI) - machine and deep learning. 
