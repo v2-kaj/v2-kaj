@@ -43,16 +43,20 @@ Artificial Intelligence (AI) - machine and deep learning.
 
 ## Projects
 - [KaQuiz](#) <br>
-KaQuiz is an interactive, real-time quiz platform designed for use in classroom or lecture environments. It allows lecturers to manage and host the quizes while participants answer via their mobile devices. The faster you provide an answer the more points you score. Results are viewed live, and top 3 scorers are displayed at the end of the quiz. This was my final project in a Java class in which I leveraged Hibernet ORM, Servlets and JSP for backend, Google Login for authentication, Mockito and JUnit for testing, Websockets for realtime communication and HTML,CSS and vanilla JavaScript for the frontend.
+KaQuiz is a real-time quizzing platform that enables engaging lessons for educators and students. Students answer questions on their mobile devices, competing for points based on speed and accuracy. An industry-standard version of KaQuiz, re-written using Spring Boot, is coming out soon.
 
 - [Studious](https://studious.pythonanywhere.com/) <br>
 A study-time management web application for college students. Technologies used include: Django for backend SSR, vanilla JavaScript for UI, DjangoAllauth for Social Login and Docker for containerisation. <br>
+
 - [ALPRS-ML](http://localhost/app/html/)<br>
 Auto Licence Plate Recognition System (ALPRS) deployed on Raspberrypi that runs a Machine Learning (ML) model to recognize a licence plate on an image of a vehicle and extracts it into text using OCR. This was my final project in a Hardware II class. Specific technologies I used included: TensorFlowJs, Google Vision, Google AutoML, Node.js and Express. <br> 
+
 - [Highway Code](https://highwaycode-fbd3e.web.app/)<br>
 A Single Page Application (SPA) for practicing driving test exams for Malawi and SADC countries. In this project I used, ReactJs, ReactRouter and MaterialUI for the frontend and Flask for the backend.
+
 - [vBet](https://youtu.be/LQJeUnLR6Hc) <br>
 A SPA for simulating virtual betting on the major betting sites like Bet365. This was my Harvard Capstone Project in which I leveraged ReactJs including React Router and DjangoRestFramework for frontend and backend respectively.
+
 - [Kubernetes Cluster]() <br>
 Setup a kubernetes cluster, for learning purposes, with three nodes (Ubuntu 20.04 LTS servers) on VMWare VSphere: a master node, two worker nodes, and deployed a simple dockerized FastAPI app on the cluster. This was my final project in Operating Systems II. 
 
