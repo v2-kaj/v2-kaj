@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a software developer with expertise in designing and implementing innovative solutions to address complex business challenges. I am also a passionate educator in computer science at the Malawi University of Business and Applied Sciences (MUBAS) and the National College of Information Technology (NACIT).
+I am a software developer with expertise in designing and implementing innovative solutions to address complex business challenges. I am also an educator in computer science at the Malawi University of Business and Applied Sciences (MUBAS) and the National College of Information Technology (NACIT).
 
 ## 🎓 Education
 - Bachelor of Science in Information Technology -MUBAS (Distinction) 2024
