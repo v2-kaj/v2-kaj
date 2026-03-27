@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a software developer with expertise in designing and implementing innovative solutions to address complex business challenges. I am also an educator in computer science at the Malawi University of Business and Applied Sciences (MUBAS). I previously worked as an Instructor at the National College of Information Technology (NACIT).
+Software developer passionate about designing and building innovative solutions to address complex business challenges. I have previously worked as a Computer Science instructor at Malawi University of Business and Applied Sciences (MUBAS) and the National College of Information Technology (NACIT).
 
 ## 🎓 Education
 - Bachelor of Science in Information Technology -MUBAS (Distinction) 2024
@@ -41,7 +41,7 @@ Artificial Intelligence (AI) - machine and deep learning.
 - Node.js and Express (JavaScript)
 - Flutter (Dart)
 
-## Projects
+## My Projects
 - [KaQuiz](#) <br>
 KaQuiz is a real-time quizzing platform that enables engaging lessons for educators and students. Students answer questions on their mobile devices, competing for points based on speed and accuracy. An industry-standard version of KaQuiz, re-written using Spring Boot, is coming out soon.
 
@@ -52,13 +52,13 @@ A study-time management web application for college students. Technologies used 
 Auto Licence Plate Recognition System (ALPRS) deployed on Raspberrypi that runs a Machine Learning (ML) model to recognize a licence plate on an image of a vehicle and extracts it into text using OCR. This was my final project in a Hardware II class. Specific technologies I used included: TensorFlowJs, Google Vision, Google AutoML, Node.js and Express. <br> 
 
 - [Highway Code](https://mfive.ac)<br>
-A web application for practicing driving test exams for Malawi and SADC countries. In this project I used, ReactJs, Inertia and Flask.
+A web application under the Mfive Project for practicing driving test exams for Malawi and SADC countries. In this project I used React, Flask, MongoDB and Docker.
 
 - [vBet](https://youtu.be/LQJeUnLR6Hc) <br>
 A SPA for simulating virtual betting on the major betting sites like Bet365. This was my Harvard Capstone Project in which I leveraged ReactJs including React Router and DjangoRestFramework for frontend and backend respectively.
 
 - [Kubernetes Cluster]() <br>
-Setup a kubernetes cluster, for learning purposes, with three nodes (Ubuntu 20.04 LTS servers) on VMWare VSphere: a master node, two worker nodes, and deployed a simple dockerized FastAPI app on the cluster. This was my final project in Operating Systems II. 
+Setup a kubernetes cluster, for learning purposes, with three nodes (Ubuntu 20.04 LTS servers) on VMWare vSphere: a master node, two worker nodes, and deployed a simple dockerized FastAPI app on the cluster. This was my final project in Operating Systems II. 
 
 ## Contact me
 Email: madalitsomuva@gmail.com<br>
