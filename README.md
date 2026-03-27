@@ -32,7 +32,7 @@ Artificial Intelligence (AI) - machine and deep learning.
 KaQuiz is a real-time quizzing platform that enables engaging lessons for educators and students. Students answer questions on their mobile devices, competing for points based on speed and accuracy. An industry-standard version of KaQuiz, re-written using Spring Boot, is coming out soon.
 
 - [Studious](https://studious.pythonanywhere.com/) <br>
-A study-time management web application for college students. Technologies used include: Django for backend SSR, vanilla JavaScript for UI, DjangoAllauth for Social Login and Docker for containerisation. <br>
+A study-time management web application for college students. Technologies used include: Django, vanilla JavaScript for UI, DjangoAllauth for Social Login and Docker for containerisation. <br>
 
 - [ALPRS-ML](http://localhost/app/html/)<br>
 Auto Licence Plate Recognition System (ALPRS) deployed on Raspberrypi that runs a Machine Learning (ML) model to recognize a licence plate on an image of a vehicle and extracts it into text using OCR. This was my final project in a Hardware II class. Specific technologies I used included: TensorFlowJs, Google Vision, Google AutoML, Node.js and Express. <br> 
