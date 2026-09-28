@@ -28,7 +28,7 @@ Artificial Intelligence (AI) - machine and deep learning.
 ## Technologies I use
 - SpringBoot (Java)
 - Django/Flask (Python)
-- C# .NET
+- .NET (C#)
 - React (JavaScript)
 - Node.js and Express (JavaScript)
 - Flutter (Dart)
