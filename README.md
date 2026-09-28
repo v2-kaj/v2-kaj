@@ -4,9 +4,14 @@ Software developer passionate about designing and building innovative solutions 
 
 ## 🎓 Education
 - Bachelor of Science in Information Technology -MUBAS (Distinction) 2024
-- [Certificate in CS50's Web Programming with Python and JavaScript](https://courses.edx.org/certificates/2a15f5bba65c42e9b6ca202dc19aac07) - Harvard University USA (2021)
 - ABMA Professional Diploma in Computing and Information Systems (Distinction) 2020
 
+## Professional Certifications
+- [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/6b74515091021fb9b88504774cd784e4) - Stanford Online & DeepLearning.AI (2026)
+- [Advanced Learning Algorithms](https://coursera.org/share/188e1e00aaeeaee5695449936833deee) - Stanford Online & DeepLearning.AI (2026)
+- [Certificate in Unsupervised Learning, Recommenders, Reinforcement Learning](https://coursera.org/share/50afa6761af68c050474875aec699fa0) - Stanford Online & DeepLearning.AI (2026)
+- [Certificate in CS50's Web Programming with Python and JavaScript](https://courses.edx.org/certificates/2a15f5bba65c42e9b6ca202dc19aac07) - Harvard University USA (2021)
+  
 ## Specialisation Aspiration
 Artificial Intelligence (AI) - machine and deep learning. 
 
